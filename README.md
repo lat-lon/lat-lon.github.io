@@ -1,7 +1,7 @@
-twitter.github.com
+lat-lon.github.io
 ======
 
-The source code of http://twitter.github.com/
+The source code of http://lat-lon.github.io
 
 LICENSE
 ------------
